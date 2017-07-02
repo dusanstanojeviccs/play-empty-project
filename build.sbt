@@ -1,4 +1,4 @@
-name := """play-java-starter-example"""
+name := """play-empty-project"""
 
 version := "1.0-SNAPSHOT"
 
@@ -7,9 +7,6 @@ lazy val root = (project in file(".")).enablePlugins(PlayJava)
 scalaVersion := "2.12.2"
 
 libraryDependencies += guice
-
-// Test Database
-libraryDependencies += "com.h2database" % "h2" % "1.4.194"
 
 // Testing libraries for dealing with CompletionStage...
 libraryDependencies += "org.assertj" % "assertj-core" % "3.6.2" % Test
