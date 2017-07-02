@@ -1,5 +1,3 @@
-[<img src="https://img.shields.io/travis/playframework/play-java-starter-example.svg"/>](https://travis-ci.org/playframework/play-java-starter-example)
-
 # play-empty-project
 
 This is an empty Play frameworke 2.6 + Java project.
